@@ -1,7 +1,12 @@
 [package]
 name = "alf"
+authors = ["github.com/ErisianArchitect"]
+description = "Extended library from useful Rust functionality."
 version = "0.1.0"
 edition = "2024"
 license = "MIT"
+homepage = "https://github.com/ErisianArchitect/alf"
+repository = "https://github.com/ErisianArchitect/alf"
+readme = "README.md"
 
 [dependencies]
